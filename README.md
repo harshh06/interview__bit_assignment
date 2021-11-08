@@ -1,4 +1,4 @@
-# Interview-Creation-Portal
+# Interview-Scheduler
 
 To run this project you have to install NodeJS (npm) and MySQL server on your machine.
 
